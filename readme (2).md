@@ -8,16 +8,18 @@
    Keine Ungenügende Note. 
 3. Was hatten Sie sich am Ende von LP4 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
 4. Was wäre ein geeignetes Projekt für diese LP5?
+   Ich möchte aufjedenfall an den Modulen arbeiten. und etwas mit Html machen
 
 ## 23.4.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich vieles überlegt bin schnell zum punkt gekommen was ich machen möchte und habe schon ein wenig angefangen. heute war ein konzentriertet tag (50-100 Wörter)
 
 ## 30.4.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Modul 106 datenbanken sql
+- [ ] Modul 106 Datenbanken sql
+- [ ] Tutorial für html anschauen
+- [ ] Tutorial für html anschauen
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
