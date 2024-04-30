@@ -5,7 +5,7 @@
 ## Grob-Planung
 
 1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-   Keine Ungenügende Note. 
+   Keine Ungenügende Note. eine 5 und eine 6
 3. Was hatten Sie sich am Ende von LP4 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
 4. Was wäre ein geeignetes Projekt für diese LP5?
    Ich möchte aufjedenfall an den Modulen arbeiten. und etwas mit Html machen
