@@ -26,10 +26,10 @@
 
 ## 07.05.2024
 
-- [x] Modul 106 datenbanken sql abschliessen
-- [x] Modul 106 Portfolio
-- [x] Tutorial für html anschauen
-- [x] Html anfangen
+- [] Modul 106 datenbanken sql abschliessen
+- [] Modul 106 Portfolio
+- [] Tutorial für html anschauen
+- [] Html anfangen
 
 
 
