@@ -16,11 +16,22 @@
 
 ## 30.4.2024
 
-- [ ] Modul 106 datenbanken sql
-- [ ] Modul 106 Datenbanken sql
-- [ ] Tutorial für html anschauen
-- [ ] Tutorial für html anschauen
+- [x] Modul 106 datenbanken sql
+- [x] Modul 106 Datenbanken sql
+- [x] Tutorial für html anschauen
+- [x] Tutorial für html anschauen
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich viele aufträge gelöst vom modul. etwa so 5 -7 stück. nächste woche beende ich das modul 106. Heute war es etwas ruhiger bei mir. war auch etwas müde. ich habe youtube tutorials angeschaut um html zu verstehen. nächste woche fange ich langsam an (50-100 Wörter)
+
+
+## 07.05.2024
+
+- [x] Modul 106 datenbanken sql abschliessen
+- [x] Modul 106 Portfolio
+- [x] Tutorial für html anschauen
+- [x] Html anfangen
+
+
+
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
