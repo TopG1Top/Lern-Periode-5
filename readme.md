@@ -29,7 +29,7 @@
 - [] Modul 106 datenbanken sql  letzte aufträge langsan abschliessen
 - [] Modul 106 Portfolio weiter machen
 - [] Tutorial für html anschauen
-- [] Html anfangen die erstenn schritte
+- [] Html anfangen die ersten schritte
 
 
 
