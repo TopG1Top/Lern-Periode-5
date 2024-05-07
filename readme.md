@@ -31,7 +31,7 @@
 - [x] Tutorial für html anschauen
 - [x] Html anfangen die ersten schritte
 
-Heute habe ich viele aufträge gelöst vom modul. bin fast fertig nächste woche beende ich das modul 106. Heute war ich sehr fit habe sehr viel gemacht und sehr konzentriert. Portfolio gut angefangen und das mit html auch. Das modul ist fertig. es wird morgen abgegeben und die zeit im lernatelier hat mir sehr geholfen.
+Heute habe ich viele aufträge gelöst vom modul. bin fast fertig morgen beende ich das modul 106. Heute war ich sehr fit habe sehr viel gemacht und sehr konzentriert. Portfolio gut angefangen und das mit html auch. Das modul ist fertig. es wird morgen abgegeben und die zeit im lernatelier hat mir sehr geholfen.
 
 
 ## 14.05.2024
