@@ -26,12 +26,19 @@
 
 ## 07.05.2024
 
+- [x] Modul 106 datenbanken sql  letzte aufträge langsan abschliessen
+- [x] Modul 106 Portfolio weiter machen
+- [x] Tutorial für html anschauen
+- [x] Html anfangen die ersten schritte
+
+Heute habe ich viele aufträge gelöst vom modul. bin fast fertig nächste woche beende ich das modul 106. Heute war ich sehr fit habe sehr viel gemacht und sehr konzentriert. Portfolio gut angefangen und das mit html auch. Das modul ist fertig. es wird morgen abgegeben und die zeit im lernatelier hat mir sehr geholfen.
+
+
+## 14.05.2024
+
 - [ ] Modul 106 datenbanken sql  letzte aufträge langsan abschliessen
 - [ ] Modul 106 Portfolio weiter machen
-- [ ] Tutorial für html anschauen
-- [ ] Html anfangen die ersten schritte
-
-
-
+- [ ] Tutorial für html anschauen https://www.youtube.com/watch?v=FQdaUv95mR8 um mal richtig etwas zu machen.
+- [ ] https://www.youtube.com/watch?v=Q3MIitoSQkE mit html die website starten
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
