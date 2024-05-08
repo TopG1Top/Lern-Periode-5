@@ -36,8 +36,8 @@ Heute habe ich viele aufträge gelöst vom modul. bin fast fertig morgen beende 
 
 ## 14.05.2024
 
-- [ ] Modul 106 datenbanken sql  letzte aufträge langsan abschliessen
-- [ ] Modul 106 Portfolio weiter machen
+- [ ] neues modul 
+- [ ] neues modul
 - [ ] Tutorial für html anschauen https://www.youtube.com/watch?v=FQdaUv95mR8 um mal richtig etwas zu machen.
 - [ ] https://www.youtube.com/watch?v=Q3MIitoSQkE mit html die website starten
 
