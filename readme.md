@@ -36,9 +36,30 @@ Heute habe ich viele aufträge gelöst vom modul. bin fast fertig morgen beende 
 
 ## 14.05.2024
 
-- [ ] neues modul 
-- [ ] neues modul
-- [ ] Tutorial für html anschauen https://www.youtube.com/watch?v=FQdaUv95mR8 um mal richtig etwas zu machen.
-- [ ] https://www.youtube.com/watch?v=Q3MIitoSQkE mit html die website starten
+- [x] neues modul 
+- [x] neues modul
+- [x] Tutorial für html anschauen https://www.youtube.com/watch?v=FQdaUv95mR8 um mal richtig etwas zu machen.
+- [x] https://www.youtube.com/watch?v=Q3MIitoSQkE mit html die website starten
+
+
+Heute habe ich die Paar aufträge vom Modul 122 gelöst die ich nicht ganz richtig hatte und noch nicht ganz fertig und gut verstanden habe. Meine Arbeit heute war sehr konzentriert und gut. habe mir mühe gegeben und war fit. Die Videos für Html beginner haben auch sehr geholfen. Jetzt weiss ich wo ich anfangen soll und wie. (58)
+
+
+
+
+
+
+## 21.05.2024
+
+- [ ] LA_122_1708_Pipelining die Befehle in der Aufgabe testen und schauen was als Resultat raus kommt.
+- [ ] https://www.youtube.com/watch?v=wkaVf_OCmhk Ich möchte nützliche Powershell Befehle lernen mit dem Video
+- [ ] https://www.youtube.com/watch?v=Q3MIitoSQkE Webseite beginnen mit index.html und den ersten zeilen.
+- [ ] https://www.youtube.com/watch?v=dOgFkZiVC8w Hier meine Webseite viel besser machen mit html und mal schauen was Css so kann für was ich das brauchen kann
+
+
+
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+
+
+
