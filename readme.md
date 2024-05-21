@@ -51,11 +51,22 @@ Heute habe ich die Paar aufträge vom Modul 122 gelöst die ich nicht ganz richt
 
 ## 21.05.2024
 
-- [ ] LA_122_1708_Pipelining die Befehle in der Aufgabe testen und schauen was als Resultat raus kommt.
-- [ ] https://www.youtube.com/watch?v=wkaVf_OCmhk Ich möchte nützliche Powershell Befehle lernen mit dem Video
-- [ ] https://www.youtube.com/watch?v=Q3MIitoSQkE Webseite beginnen mit index.html und den ersten zeilen.
-- [ ] https://www.youtube.com/watch?v=dOgFkZiVC8w Hier meine Webseite viel besser machen mit html und mal schauen was Css so kann für was ich das brauchen kann
+- [x] LA_122_1708_Pipelining die Befehle in der Aufgabe testen und schauen was als Resultat raus kommt.
+- [x] https://www.youtube.com/watch?v=wkaVf_OCmhk Ich möchte nützliche Powershell Befehle lernen mit dem Video
+- [x] https://www.youtube.com/watch?v=Q3MIitoSQkE Webseite beginnen mit index.html und den ersten zeilen.
+- [x] https://www.youtube.com/watch?v=dOgFkZiVC8w Hier meine Webseite viel besser machen mit html und mal schauen was Css so kann für was ich das brauchen kann
 
+Heute war ein guter Tag habe vieles machen können und das erflogreich. war sehr fit und konzentriert. bei meiner seite geht es um fussball und statistiken der Top 5 Ligen. momentan läuft es gut. youtube videos helfen viel und es macht spass daran zu arbeiten.
+
+
+
+
+## 28.05.2024
+
+- [ ] Statistiken der Ligen und der Spieler alle ^finden für meine Seite
+- [ ] schauen wie ich die Statistiken in die Seite immer aktuell einbauen kann
+- [ ] Modul 293 an der webseite arbeiten 
+- [ ] LA_293_7707_Urheberrechte mal genau durchschauen
 
 
 
