@@ -63,11 +63,20 @@ Heute war ein guter Tag habe vieles machen können und das erflogreich. war sehr
 
 ## 28.05.2024
 
-- [ ] Statistiken der Ligen und der Spieler alle ^finden für meine Seite
+- [x] Statistiken der Ligen und der Spieler alle ^finden für meine Seite
+- [x] schauen wie ich die Statistiken in die Seite immer aktuell einbauen kann
+- [x] Modul 293 an der webseite arbeiten 
+- [x] LA_293_7707_Urheberrechte mal genau durchschauen
+
+Heute war ein guter Tag habe vieles machen können und das erflogreich. war sehr fit und konzentriert. bei meiner seite geht es um fussball und statistiken der Top 5 Ligen. momentan läuft es gut. youtube videos helfen viel und es macht spass daran zu arbeiten.Ich habe die Statistiken finden können. Habe alles was ich brauche gefunden. Muss jetzt nur noch in die Seite einfügen.
+
+
+## 04.06.2024
+
+- [ ] Statistiken einfügen mit zusatzinformationen dazu
 - [ ] schauen wie ich die Statistiken in die Seite immer aktuell einbauen kann
 - [ ] Modul 293 an der webseite arbeiten 
-- [ ] LA_293_7707_Urheberrechte mal genau durchschauen
-
+- [ ] LA_293_7708 mal genau durchschauen
 
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
