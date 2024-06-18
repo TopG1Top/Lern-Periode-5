@@ -87,10 +87,16 @@ Heute war ein guter Tag habe vieles machen können und das erflogreich. war sehr
 - [x] Modul 293 an der webseite arbeiten
 - [x] modul 122 skript
 
-## 18.06
-- [] Modul 293 an der webseite arbeiten
-- [] modul 122 skript
-- [ ] yt video schauen um alles was ich gemacht habe besser zu verstehen
+## 18.06.2024
+- [x] Modul 293 an der webseite arbeiten
+- [x] modul 122 skript
+- [x] yt video schauen um alles was ich gemacht habe besser zu verstehen
+
+
+
+## 25.06.2024
+- [ ] Modul 293 webseite fertig machen
+- [ ] meine andere webseite auch fertig machen
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
 
