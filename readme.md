@@ -73,12 +73,24 @@ Heute war ein guter Tag habe vieles machen können und das erflogreich. war sehr
 
 ## 04.06.2024
 
-- [ ] Statistiken einfügen mit zusatzinformationen dazu
-- [ ] schauen wie ich die Statistiken in die Seite immer aktuell einbauen kann
-- [ ] Modul 293 an der webseite arbeiten 
-- [ ] LA_293_7708 mal genau durchschauen
+- [x] Statistiken einfügen mit zusatzinformationen dazu
+- [x] schauen wie ich die Statistiken in die Seite immer aktuell einbauen kann
+- [x] Modul 293 an der webseite arbeiten 
+- [x] LA_293_7708 mal genau durchschauen
 
 
+
+## 11.06.2024
+
+- [x] Statistiken einfügen mit zusatzinformationen dazu
+- [x] schauen wie ich die Statistiken in die Seite immer aktuell einbauen kann
+- [x] Modul 293 an der webseite arbeiten
+- [x] modul 122 skript
+
+## 18.06
+- [] Modul 293 an der webseite arbeiten
+- [] modul 122 skript
+- [ ] yt video schauen um alles was ich gemacht habe besser zu verstehen
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
 
